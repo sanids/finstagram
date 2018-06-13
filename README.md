@@ -1,2 +1,2 @@
 # finstagram
-tutorial for lighthouse labs web fundamentals
+Practice Website Social Media for Web Development.
